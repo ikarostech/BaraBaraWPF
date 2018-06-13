@@ -1,0 +1,15 @@
+C:\Users\ikaro\source\repos\Barabara\Barabara\bin\Debug\Barabara.exe.config
+C:\Users\ikaro\source\repos\Barabara\Barabara\bin\Debug\Barabara.exe
+C:\Users\ikaro\source\repos\Barabara\Barabara\bin\Debug\Barabara.pdb
+C:\Users\ikaro\source\repos\Barabara\Barabara\obj\Debug\Barabara.csprojResolveAssemblyReference.cache
+C:\Users\ikaro\source\repos\Barabara\Barabara\obj\Debug\MainWindow.g.cs
+C:\Users\ikaro\source\repos\Barabara\Barabara\obj\Debug\App.g.cs
+C:\Users\ikaro\source\repos\Barabara\Barabara\obj\Debug\Barabara_MarkupCompile.cache
+C:\Users\ikaro\source\repos\Barabara\Barabara\obj\Debug\Barabara_MarkupCompile.lref
+C:\Users\ikaro\source\repos\Barabara\Barabara\obj\Debug\MainWindow.baml
+C:\Users\ikaro\source\repos\Barabara\Barabara\obj\Debug\Barabara.g.resources
+C:\Users\ikaro\source\repos\Barabara\Barabara\obj\Debug\Barabara.Properties.Resources.resources
+C:\Users\ikaro\source\repos\Barabara\Barabara\obj\Debug\Barabara.csproj.GenerateResource.cache
+C:\Users\ikaro\source\repos\Barabara\Barabara\obj\Debug\Barabara.csproj.CoreCompileInputs.cache
+C:\Users\ikaro\source\repos\Barabara\Barabara\obj\Debug\Barabara.exe
+C:\Users\ikaro\source\repos\Barabara\Barabara\obj\Debug\Barabara.pdb

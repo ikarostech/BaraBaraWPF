@@ -1,0 +1,18 @@
+﻿<Window x:Class="Barabara.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Barabara"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox Name="Weight" HorizontalAlignment="Left" Height="23" Margin="98,122,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="116"/>
+        <Button Click="Button_Click" Content="Button" HorizontalAlignment="Left" Height="21" Margin="451,119,0,0" VerticalAlignment="Top" Width="81"/>
+        <TextBox Name="Height" HorizontalAlignment="Left" Height="23" Margin="318,119,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="116"/>
+        <TextBlock HorizontalAlignment="Left" Height="19" Margin="35,124,0,0" TextWrapping="Wrap" Text="Weight" VerticalAlignment="Top" Width="86"/>
+        <TextBlock HorizontalAlignment="Left" Height="19" Margin="225,123,0,0" TextWrapping="Wrap" Text="Height" VerticalAlignment="Top" Width="86"/>
+        <TextBox Name="Result" HorizontalAlignment="Left" Height="156" Margin="103,198,0,0" TextWrapping="Wrap" Text="Result will show on here" VerticalAlignment="Top" Width="378"/>
+
+    </Grid>
+</Window>
